@@ -1,0 +1,12 @@
+*.min.js
+**/node_modules/**
+
+# cache-dirs
+**/.cache
+
+# coverage
+coverage
+
+pnpm-lock.yaml
+
+.pnpm-store/**
